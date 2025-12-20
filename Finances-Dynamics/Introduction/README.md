@@ -45,7 +45,7 @@ This folder collects structured notes that follow a typical introductory finance
 
 ## Topics covered
 
-### 1. Introduction to Finance
+### 1. Introduction to Financial corporate world
 
 - Overview of finance, roles and decisions in firms and households; basic financial markets and instruments.
 
