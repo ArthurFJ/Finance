@@ -24,7 +24,7 @@
 
 ## Overview
 
-This folder collects structured notes that follow a typical introductory finance syllabus. Sections include conceptual summaries, numerical examples (time value calculations, bond pricing), valuation templates, and short problem sets.
+This folder collects structured notes that follow a typical introductory finance notes. Sections include conceptual summaries, numerical examples (time value calculations, bond pricing), valuation templates, and short problem sets.
 
 > ⚠️ **Notes:** 
 >
@@ -51,7 +51,7 @@ This folder collects structured notes that follow a typical introductory finance
 
 ---
 
-### 2. Time Value of Money (6 sessions)
+### 2. Time Value of Money
 
 - 2.1 Simple and compound interest
 - 2.2 Present value and future value calculations
@@ -60,13 +60,13 @@ This folder collects structured notes that follow a typical introductory finance
 
 ---
 
-### 3. Fixed Income & Term Structure (3 sessions)
+### 3. Fixed Income & Term Structure
 
 - Yield curves, term structure theories (expectations, liquidity premium), and basic valuation of coupons and zero-coupon bonds.
 
 ---
 
-### 4. Project Evaluation (6 sessions)
+### 4. Project Evaluation
 
 - 4.1 Evaluation criteria: NPV, IRR, payback, profitability index
 - 4.2 Relevant cash flows and capital budgeting
@@ -74,21 +74,21 @@ This folder collects structured notes that follow a typical introductory finance
 
 ---
 
-### 5. Arbitrage (2 sessions)
+### 5. Arbitrage
 
 - 5.1 Arbitrage valuation and the law of one price
 - 5.2 Application: introduction to derivative assets (basic arbitrage pricing, forwards and futures)
 
 ---
 
-### 6. Preferences & Expected Utility (6 sessions)
+### 6. Preferences & Expected Utility
 
 - 6.1 Risk aversion and utility functions
 - 6.2 The separation principle with and without uncertainty (portfolio choice basics)
 
 ---
 
-### 7. Efficient Markets Hypothesis (2 sessions)
+### 7. Efficient Markets Hypothesis
 
 - Forms of market efficiency (weak, semi-strong, strong), implications for investment strategies, and empirical evidence.
 
